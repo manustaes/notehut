@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "790735287234",
+    "project_id": "notehut-flutter-project",
+    "storage_bucket": "notehut-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790735287234:android:c3a1dc4c319fec43c29c5b",
+        "android_client_info": {
+          "package_name": "dev.many.notehut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790735287234-rrv9dm12m3pd075j44qts6paflaiph8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHkMQq9MRo2WKoHSiCIESC8WPVP9kbLYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790735287234-rrv9dm12m3pd075j44qts6paflaiph8k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790735287234-0igmlo2cp5r7i0cfcm60do8is3ibangj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.many.notehut"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
